@@ -1,11 +1,11 @@
 {
   "product": [
-      { "dia": "1", "tostadora1": "25","tostadora2":"30", "tostadora3": "18",}
-      { "dia": "2", "tostadora1": "12","tostadora2":"24", "tostadora3": "26",}
-      { "dia": "3", "tostadora1": "16","tostadora2":"12", "tostadora3": "35",}
-      { "dia": "4", "tostadora1": "35","tostadora2":"18", "tostadora3": "28",}
-      { "dia": "5", "tostadora1": "28","tostadora2":"26", "tostadora3": "22",}
-      { "dia": "6", "tostadora1": "9","tostadora2":"40", "tostadora3": "0",}
-      { "dia": "7", "tostadora1": "12","tostadora2":"15", "tostadora3": "6",}
+      { "dia": "1", "tostadora1": "25","tostadora2":"30", "tostadora3": "18"}
+      { "dia": "2", "tostadora1": "12","tostadora2":"24", "tostadora3": "26"}
+      { "dia": "3", "tostadora1": "16","tostadora2":"12", "tostadora3": "35"}
+      { "dia": "4", "tostadora1": "35","tostadora2":"18", "tostadora3": "28"}
+      { "dia": "5", "tostadora1": "28","tostadora2":"26", "tostadora3": "22"}
+      { "dia": "6", "tostadora1": "9","tostadora2":"40", "tostadora3": "0"}
+      { "dia": "7", "tostadora1": "12","tostadora2":"15", "tostadora3": "6"}
   ]
 }
